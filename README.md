@@ -8,4 +8,4 @@ The train set. You will train your model of choice on this data. You can split t
 
 10k_filings_test_wo_labels.csv
 
-The test set. The labels are omitted. Only submit your model's predicted sector for the test set.
+The test set. The labels are omitted. Only submit your model's predicted sector for the test set
